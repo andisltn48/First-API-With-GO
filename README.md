@@ -1,2 +1,2 @@
 # First-API-With-GO
-#### tutorial by https://www.youtube.com/watch?v=CfZNm3qBgmA
+#### tutorial by https://afrizalmy.com/membuat-crud-golang-rest-api-dengan-postgresql/
