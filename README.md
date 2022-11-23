@@ -1,3 +1,3 @@
 # First-API-With-GO
-#### tutorial by https://afrizalmy.com/membuat-crud-golang-rest-api-dengan-postgresql/
-#### https://github.com/afrizal423/Go-Postgres-CRUD-API
+#### tutorial by https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121
+
